@@ -1,0 +1,44 @@
+ glances.bin --------------------------------  /usr/bin/glances
+  Glances-2.5.1-py2.7.egg-info ------------------------------------ -/usr/lib/python2.7/site-packages/Glances-2.5.1-py2.7.egg-info
+  glances ------------------------------------------ /usr/share/doc/glances/AUTHORS
+  /usr/share/doc/glances/COPYING
+  /usr/share/doc/glances/NEWS
+  /usr/share/doc/glances/README.rst
+  /usr/share/doc/glances/glances-doc.html
+  /usr/share/doc/glances/glances.conf
+  /usr/share/doc/glances/images/connected.png
+  /usr/share/doc/glances/images/cpu-wide.png
+  /usr/share/doc/glances/images/cpu.png
+  /usr/share/doc/glances/images/disconnected.png
+  /usr/share/doc/glances/images/diskio.png
+  /usr/share/doc/glances/images/docker.png
+  /usr/share/doc/glances/images/fs.png
+  /usr/share/doc/glances/images/glances-responsive-webdesign.png
+  /usr/share/doc/glances/images/grafana.png
+  /usr/share/doc/glances/images/header.png
+  /usr/share/doc/glances/images/load.png
+  /usr/share/doc/glances/images/logs.png
+  /usr/share/doc/glances/images/mem-wide.png
+  /usr/share/doc/glances/images/mem.png
+  /usr/share/doc/glances/images/monitored.png
+  /usr/share/doc/glances/images/network.png
+  /usr/share/doc/glances/images/per-cpu.png
+  /usr/share/doc/glances/images/processlist-filter.png
+  /usr/share/doc/glances/images/processlist-top.png
+  /usr/share/doc/glances/images/processlist-wide.png
+  /usr/share/doc/glances/images/processlist.png
+  /usr/share/doc/glances/images/quicklook-percpu.png
+  /usr/share/doc/glances/images/quicklook.png
+  /usr/share/doc/glances/images/raid.png
+  /usr/share/doc/glances/images/screenshot-web.png
+  /usr/share/doc/glances/images/screenshot-web2.png
+  /usr/share/doc/glances/images/screenshot-wide.png
+  /usr/share/doc/glances/images/screenshot.png
+  /usr/share/doc/glances/images/sensors.png
+  glances.1  -----------------------------------------------   /usr/share/man/man1/glances.1
+
+core,exports outputs,plug	ins ,__init__.py, __main__.py -------------------------  /usr/lib/python2.7/site-packages/
+
+psutil,psutil-3.2.2-py2.7.egg-info ------------------------------------------------/usr/lib64/python2.7/site-packages/
+
+
